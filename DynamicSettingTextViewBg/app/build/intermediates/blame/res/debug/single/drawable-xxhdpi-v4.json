@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yuzhuo/Desktop/bbg/TwoStyleTextView/DynamicSettingTextViewBg/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/yuzhuo/Desktop/bbg/TwoStyleTextView/DynamicSettingTextViewBg/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

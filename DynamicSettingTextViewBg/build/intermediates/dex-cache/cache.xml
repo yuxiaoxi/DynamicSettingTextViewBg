@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yuzhuo/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_c1a9caaa7bf55732d2b0698c326332a807bc3f35/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="536a55662e8fe8163f8ea60e47152b5ce7a515dd">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f19fac3f913c4d6f4654fa423f91c73ccc448995/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_5d3a039f72d18deaa92253d5ea1ef340f3dde119/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_de83289b009d434ca6af54f3019e46019ea083ee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e0fa8fe66b1ec7f31f3fbbf75a3428f87920a5a8">
+        <dex dex="/Users/yuzhuo/Desktop/bbg/DynamicSettingTextViewBg/DynamicSettingTextViewBg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8be89a12275f70e353795ea85996a492ed1bfbde/classes.dex" />
+    </item>
+
+</items>
